@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "JLPM"]
+	path = JLPM
+	url = https://github.com/vivianephilipps/jlpm
+	shallow = true
+	registered = true
+[submodule "marqLevAlg"]
+	path = marqLevAlg
+	url = https://github.com/vivianephilipps/marqlevalgparallel
+	shallow = true
+	registered = true
+[submodule "weightQuant"]
+	path = weightQuant
+	url = https://github.com/vivianephilipps/weightquant
+	shallow = true
+	registered = true
