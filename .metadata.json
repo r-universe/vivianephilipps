@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "marqLevAlg",
-    "oncran": true
-  },
-  {
     "package": "weightQuant",
     "oncran": true
   }
